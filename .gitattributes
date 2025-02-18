@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Week2/Data/*.csv filter=lfs diff=lfs merge=lfs -text
