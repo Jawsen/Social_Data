@@ -11,6 +11,7 @@ attrs==24.2.0
 babel==2.16.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
+bokeh==3.7.2
 certifi==2024.8.30
 cffi==1.17.1
 charset-normalizer==3.3.2
@@ -60,6 +61,7 @@ matplotlib==3.9.2
 matplotlib-inline==0.1.7
 mistune==3.0.2
 mwparserfromhell==0.6.6
+narwhals==1.32.0
 nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
@@ -122,3 +124,4 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
 wordcloud==1.9.3
+xyzservices==2025.1.0
