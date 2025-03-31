@@ -12,6 +12,8 @@ babel==2.16.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
 bokeh==3.7.2
+branca==0.8.1
+calplot==0.1.7.5
 certifi==2024.8.30
 cffi==1.17.1
 charset-normalizer==3.3.2
@@ -25,6 +27,7 @@ defusedxml==0.7.1
 executing==2.1.0
 fa2_modified==0.3.10
 fastjsonschema==2.20.0
+folium==0.19.5
 fonttools==4.53.1
 fqdn==1.5.1
 fuzzywuzzy==0.18.0
